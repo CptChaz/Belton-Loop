@@ -11,7 +11,7 @@ for instructions on creating your own repository to host plugins for Unmanic.
  - [Unmanic Documentation](https://docs.unmanic.app/docs/)
 
 ---
-###Derivative, hacky, and unpolished - Perfectly good plugins for Unmanic that have been tweaked
+### Derivative, hacky, and unpolished - Perfectly good plugins for Unmanic that have been tweaked
 
 With absolutely no formal coding or programming experience, the purpose of this repo is to change 
 and modify existing plugins for the Unmanic application. This repo values function over form. In 
