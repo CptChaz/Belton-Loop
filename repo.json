@@ -1,0 +1,10 @@
+{
+    "repo": {
+        "id": "repository.CPT_CHAZ",
+        "name": "Belton Loop",
+        "icon": "https://yt3.ggpht.com/ytc/AKedOLQtAc9YXAXfvonB_d8ftDYqAcZKlsBeLQawS_AV=s88-c-k-c0x00ffffff-no-rj",
+        "repo_data_directory": "https://raw.githubusercontent.com/CptChaz/Belton-Loop/repo/",
+        "repo_data_url": "https://raw.githubusercontent.com/CptChaz/Belton-Loop/repo/repo/repo.json"
+    },
+    "plugins": []
+}
